@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "command",
+            "projectName": "command",
+            "workingDirectory": "/home/emerson/development/projects/jcommand",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "command",
+            "projectName": "command",
+            "workingDirectory": "/home/emerson/development/projects/jcommand",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
